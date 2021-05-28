@@ -72,3 +72,9 @@ h1 {
     text-align: center;
     text-shadow: 3px 3px 3px black;
 }
+
+.centerDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
